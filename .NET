@@ -1,0 +1,22 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello World!");
+
+        string name = "Jayendra";
+        int age = 34;
+
+        Console.WriteLine("Name: " + name);
+        Console.WriteLine("Age: " + age);
+
+        int a = 10;
+        int b = 20;
+
+        int sum = a + b;
+
+        Console.WriteLine("Addition: " + sum);
+    }
+}
